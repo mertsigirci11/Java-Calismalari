@@ -1,0 +1,405 @@
+Öğrencinin adı ve soyadı: Hatice Günday
+Öğrencinin ortalaması: 59.99999999999999
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Mustafa Akyürek
+Öğrencinin ortalaması: 76.66666666666667
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Ramazan Topaloğlu
+Öğrencinin ortalaması: 46.66666666666667
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Elif Akşit
+Öğrencinin ortalaması: 66.66666666666667
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Mehmet Düşenkalkar
+Öğrencinin ortalaması: 43.333333333333336
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Hatice Dağdaş
+Öğrencinin ortalaması: 86.66666666666667
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Merve Tütüncü
+Öğrencinin ortalaması: 33.333333333333336
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Hatice Pekkan
+Öğrencinin ortalaması: 60.0
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Merve Alyanak
+Öğrencinin ortalaması: 53.33333333333333
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Meryem Aşıkoğlu
+Öğrencinin ortalaması: 56.66666666666667
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Süleyman Uluhan
+Öğrencinin ortalaması: 50.0
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Esra Ekici
+Öğrencinin ortalaması: 16.666666666666668
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Emine Kumcuoğlu
+Öğrencinin ortalaması: 66.66666666666667
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Süleyman Kumcuoğlu
+Öğrencinin ortalaması: 40.0
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Şerife Kumcuoğlu
+Öğrencinin ortalaması: 60.0
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Sude Tekand
+Öğrencinin ortalaması: 76.66666666666667
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Elif Nebioğlu
+Öğrencinin ortalaması: 26.666666666666668
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Sude Berberoğlu
+Öğrencinin ortalaması: 53.33333333333334
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Yasemin Durmaz
+Öğrencinin ortalaması: 40.0
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Fadime Akyürek
+Öğrencinin ortalaması: 56.66666666666667
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Fatma Akşit
+Öğrencinin ortalaması: 63.333333333333336
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Emre Sözeri
+Öğrencinin ortalaması: 40.0
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Yasemin Kurutluoğlu
+Öğrencinin ortalaması: 43.333333333333336
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Fatma Akman
+Öğrencinin ortalaması: 43.333333333333336
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Hacer Korol
+Öğrencinin ortalaması: 73.33333333333334
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Recep Altınbaş
+Öğrencinin ortalaması: 63.33333333333333
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Murat Numanoğlu
+Öğrencinin ortalaması: 90.0
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Fatih Fahri
+Öğrencinin ortalaması: 20.0
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Halil Sarıoğlu
+Öğrencinin ortalaması: 53.33333333333333
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Merve Arıcan
+Öğrencinin ortalaması: 43.33333333333333
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: İsmail Kaplangı
+Öğrencinin ortalaması: 40.00000000000001
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Emir Egeli
+Öğrencinin ortalaması: 60.0
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Havva Erbulak
+Öğrencinin ortalaması: 40.0
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Hacer Okumuş
+Öğrencinin ortalaması: 80.0
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Salih Ağaoğlu
+Öğrencinin ortalaması: 20.0
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Zeliha Ağaoğlu
+Öğrencinin ortalaması: 70.0
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Abdullah Solmaz
+Öğrencinin ortalaması: 50.0
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Fatih Elmastaşoğlu
+Öğrencinin ortalaması: 33.333333333333336
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Hacer Karaer
+Öğrencinin ortalaması: 80.0
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Sude Kumcuoğlu
+Öğrencinin ortalaması: 36.66666666666667
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Abdullah Kuzucu
+Öğrencinin ortalaması: 60.00000000000001
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Hanife Söyler
+Öğrencinin ortalaması: 66.66666666666667
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Sude Orbay
+Öğrencinin ortalaması: 43.333333333333336
+Öğrencinin harf notu: FF
+------------------------
+
+Öğrencinin adı ve soyadı: Sultan Uluç
+Öğrencinin ortalaması: 70.0
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Hanife Beşok
+Öğrencinin ortalaması: 76.66666666666667
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Hülya Karadaş
+Öğrencinin ortalaması: 63.333333333333336
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Fatma Tuğluk
+Öğrencinin ortalaması: 43.333333333333336
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Halil Güçlü
+Öğrencinin ortalaması: 70.0
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Recep Eronat
+Öğrencinin ortalaması: 60.0
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Büşra Koyuncu
+Öğrencinin ortalaması: 66.66666666666666
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Hüseyin Kunt
+Öğrencinin ortalaması: 46.66666666666667
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Halil Numanoğlu
+Öğrencinin ortalaması: 56.666666666666664
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Hülya Gürmen
+Öğrencinin ortalaması: 70.0
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Ömer Kulaksızoğlu
+Öğrencinin ortalaması: 46.66666666666667
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Zeliha Demirel
+Öğrencinin ortalaması: 70.0
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Mustafa Aşıkoğlu
+Öğrencinin ortalaması: 73.33333333333333
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Süleyman Orbay
+Öğrencinin ortalaması: 76.66666666666667
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: İbrahim Erez
+Öğrencinin ortalaması: 50.00000000000001
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Süleyman Koçyiğit
+Öğrencinin ortalaması: 56.66666666666667
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Salih Orbay
+Öğrencinin ortalaması: 33.33333333333333
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Şerife Süleymanoğlu
+Öğrencinin ortalaması: 70.0
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Murat Adal
+Öğrencinin ortalaması: 66.66666666666667
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Osman Aybar
+Öğrencinin ortalaması: 56.66666666666667
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Sude Balcı
+Öğrencinin ortalaması: 36.666666666666664
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Zeynep Koyuncu
+Öğrencinin ortalaması: 63.33333333333334
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: İbrahim Pekkan
+Öğrencinin ortalaması: 30.0
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Fatih Erdoğan
+Öğrencinin ortalaması: 40.0
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Abdullah Ekşioğlu
+Öğrencinin ortalaması: 36.66666666666667
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Osman Adan
+Öğrencinin ortalaması: 56.66666666666667
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Ramazan Paksüt
+Öğrencinin ortalaması: 43.33333333333333
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Halil Gökgöz
+Öğrencinin ortalaması: 36.666666666666664
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Emre Kurutluoğlu
+Öğrencinin ortalaması: 83.33333333333334
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Mahmut Akışık
+Öğrencinin ortalaması: 46.666666666666664
+Öğrencinin harf notu: DC
+------------------------
+
+Öğrencinin adı ve soyadı: Yusuf Hamzaoğlu
+Öğrencinin ortalaması: 76.66666666666667
+Öğrencinin harf notu: CC
+------------------------
+
+Öğrencinin adı ve soyadı: Ali Akan
+Öğrencinin ortalaması: 86.66666666666667
+Öğrencinin harf notu: CB
+------------------------
+
+Öğrencinin adı ve soyadı: Zeliha Beşerler
+Öğrencinin ortalaması: 66.66666666666667
+Öğrencinin harf notu: BB
+------------------------
+
+Öğrencinin adı ve soyadı: Ali Oraloğlu
+Öğrencinin ortalaması: 43.333333333333336
+Öğrencinin harf notu: BA
+------------------------
+
+Öğrencinin adı ve soyadı: Hanife Poçan
+Öğrencinin ortalaması: 53.333333333333336
+Öğrencinin harf notu: AA
+------------------------
+
+Öğrencinin adı ve soyadı: Ayşe Kurutluoğlu
+Öğrencinin ortalaması: 46.66666666666667
+Öğrencinin harf notu: FF
+------------------------
+
+Öğrencinin adı ve soyadı: Fatih Akman
+Öğrencinin ortalaması: 56.66666666666667
+Öğrencinin harf notu: DD
+------------------------
+
+Öğrencinin adı ve soyadı: Mehmet Babacan
+Öğrencinin ortalaması: 63.33333333333333
+Öğrencinin harf notu: DC
+------------------------
+
